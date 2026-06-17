@@ -1,0 +1,11 @@
+# GitHub MCP configuration holds a personal access token — never commit it.
+.mcp.json
+mcp.json
+.cursor/mcp.json
+.env
+
+# Claude Code local settings (machine-specific; may hold secrets)
+settings.local.json
+
+# OS / editor noise
+.DS_Store
